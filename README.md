@@ -17,8 +17,7 @@ To view or test this project locally on your machine, follow these simple steps:
 ```bash
 git clone [
 https://github.com/davecodes
-ux/form.git](https://github.
-com/davecodes-ux/form.git)
+ux/form.git](https://davecodes-ux.github.io/pure_css_auth_ui/)
 * Open the project folder:
 Navigate into the downloaded folder using your terminal or code editor (like VS Code).
 * Run the project:
